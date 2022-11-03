@@ -1,5 +1,4 @@
 import { useSession, useSupabaseClient } from "@supabase/auth-helpers-react";
-import { useUser } from "@supabase/auth-ui-react/dist/esm/src/components/Auth/UserContext";
 import { useRouter } from "next/router";
 import { useState } from "react";
 
